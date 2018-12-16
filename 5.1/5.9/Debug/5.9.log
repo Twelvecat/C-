@@ -1,0 +1,5 @@
+﻿  5.9.cpp
+  function.cpp
+d:\others\test_cplusplus\5.1\5.9\function.cpp(2): warning C4101: “num”: 未引用的局部变量
+  正在生成代码...
+  5.9.vcxproj -> D:\Others\Test_Cplusplus\5.1\Debug\5.9.exe
